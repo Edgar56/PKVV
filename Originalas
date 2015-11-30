@@ -12,7 +12,6 @@ import static jdk.nashorn.internal.objects.NativeMath.round;
 
 
 public class Kreditai {
-int xxx;
     Scanner in = new Scanner(System.in); 
     int m;
     float b;
